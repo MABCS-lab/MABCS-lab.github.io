@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "MABCS-Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "MABCS-lab"
+  name             : # "MABCS-lab"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "秦皇岛"
-  employer         : "燕山大学 建筑工程与力学学院"
+  employer         : "燕山大学"
   uri              : # URL
   email            : "sen.du@ysu.edu.cn" 
 
