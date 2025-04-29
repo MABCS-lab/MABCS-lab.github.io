@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Microanalysis to Blended Cement Systems"
+title: "Welcome to Microanalysis to Blended Cement Systems Lab"
 author_profile: true
 redirect_from: 
   - /about/
