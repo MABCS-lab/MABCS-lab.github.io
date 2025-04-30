@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -130,9 +130,9 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
+twitter:#
   username               : &twitter
-facebook:
+facebook:#
   username               :
   app_id                 :
   publisher              :
@@ -263,8 +263,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
