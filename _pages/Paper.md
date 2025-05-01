@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Year of 2025
+<font face="黑体">Year of 2025</font>
 
 1. Yu Chen, Sen Du*. Improving the interfacial transition zone of concrete: A targeted approach utilizing graphene oxide. Construction and Building Materials, 2025, 466: 140323.
 
