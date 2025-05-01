@@ -9,7 +9,7 @@
 
 main:
   - title: "Group Member"
-    url: /portfolio/
+    url: /group-member/
   
   - title: "Publications"
     url: /Paper/  
