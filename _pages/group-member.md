@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-<font face="微软雅黑">在读</font>
+<font face="微软雅黑">**在读**</font>  
 
-周克凡  
-硕士, 燕山大学, 2022-2025  
-本科，石家庄铁道大学，2018-2022
-<img src="(https://github.com/user-attachments/assets/38f77401-fbe9-4c39-8cf9-fa99d1528995)" width = "100" height = "100" div align=center />
+
+<img src="https://github.com/user-attachments/assets/cd286530-28ee-4626-9c2f-8ab3521900fc" width="20%" height="20%" align="right">
+周克凡
+
+硕士, 燕山大学, 2022-2025
+
+本科, 石家庄铁道大学, 2018-2022  
