@@ -27,7 +27,7 @@ author_profile: true
 Olorunsola Taiwo Samuel  
 硕士, 燕山大学, 2023-2026  
 
-<img src="https://github.com/user-attachments/assets/8122cccd-663a-4336-aa00-a93d09bfd124" width="20%" height="20%">  
+<img src="https://github.com/user-attachments/assets/cf2f40a5-a630-468e-8c4d-10de6153b3ac" width="20%" height="20%">  
 Esmat Azimi  
 硕士, 燕山大学, 2024-2027  
 
