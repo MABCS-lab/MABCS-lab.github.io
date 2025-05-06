@@ -14,6 +14,12 @@ author_profile: true
 硕士, 燕山大学, 2022-2025  
 本科, 石家庄铁道大学, 2018-2022  
 
+
+
+
+
+
+    
 <img src="https://github.com/user-attachments/assets/15dd359c-9c5c-4872-a4c6-3bcd5701a068" width="20%" height="20%" align="left">
 陈宇  
 硕士, 燕山大学, 2023-2026  
