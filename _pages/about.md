@@ -10,9 +10,7 @@ redirect_from:
 致力于探究水泥-矿物掺合料混合体系微观特性的精准解决方案
 ![61F3599A2B8B0F975B07EDE9AD7_3F2A196C_255C7](https://github.com/user-attachments/assets/d7dc8a66-a34c-4592-887b-b7d1a98d9bfb)
 ![图片 1](https://github.com/user-attachments/assets/b957e032-bb59-42ed-b286-0abe268e809a)
-![WechatIMG1046](https://github.com/user-attachments/assets/0f6c5745-d59f-43a9-b79e-7b69058ce46e)
-
-
+![聚餐](https://github.com/user-attachments/assets/64aac2a6-b6e7-45be-8ff4-a606654711dc)
 
 News
 ======
