@@ -40,6 +40,6 @@ Sales Manager, D&G Machinery Company, 廊坊
 
 <img src="https://github.com/user-attachments/assets/dd28af8d-571e-4404-9110-55503f78cb7a" width="20%" height="20%">  
 周克凡  
-管理岗，天津市西青区市容园林服务中心，天津
+管理岗，天津市西青区市容园林服务中心，天津  
 硕士, 燕山大学, 2022-2025  
 本科, 石家庄铁道大学, 2018-2022  
