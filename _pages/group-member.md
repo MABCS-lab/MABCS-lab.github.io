@@ -8,11 +8,6 @@ author_profile: true
 {% include base_path %}
 
 **在读**  
-<img src="https://github.com/user-attachments/assets/dd28af8d-571e-4404-9110-55503f78cb7a" width="20%" height="20%">  
-周克凡  
-硕士, 燕山大学, 2022-2025  
-本科, 石家庄铁道大学, 2018-2022  
-
 <img src="https://github.com/user-attachments/assets/dfdd1d67-b770-4c36-a9fb-8a4ada6d66cc" width="20%" height="20%">  
 陈宇  
 硕士, 燕山大学, 2023-2026  
@@ -42,3 +37,9 @@ Esmat Azimi
 Soufian EL Mghari  
 Sales Manager, D&G Machinery Company, 廊坊  
 硕士, 燕山大学, 2021-2024  
+
+<img src="https://github.com/user-attachments/assets/dd28af8d-571e-4404-9110-55503f78cb7a" width="20%" height="20%">  
+周克凡  
+管理岗，天津市西青区市容园林服务中心，天津
+硕士, 燕山大学, 2022-2025  
+本科, 石家庄铁道大学, 2018-2022  
