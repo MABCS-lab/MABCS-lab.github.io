@@ -11,7 +11,7 @@ author_profile: true
 1. Yu Chen, Sen Du*. Improving the interfacial transition zone of concrete: A targeted approach utilizing graphene oxide. Construction and Building Materials, 2025, 466: 140323.
 2. Tianyu Xiao, Xiangzhou Liang, Sen Du*. Effect of targerted application of slag in the interfacial transition zone on the freeze-thaw resistance of high-volume fly ash concrete. Journal of Materials in Civil Engineering, Journal of Materials in Civil Engineering, 2025, 37(9): 04025283.
 3. Tianyu Xiao, Sen Du*. Review of high-volume fly ash binder in engineered cementitious composites. ACI Materials Journal, 2025, 122(4): 45-56.
-4. Yu Chen, Sen Du*. Optimization of water sorptivity of concrete through targeted employmnet of graphene oxide in the interfacial transition zone. Journal of Materials in Civil Engineering, in press.
+4. Yu Chen, Sen Du*. Optimization of water sorptivity of concrete through targeted employmnet of graphene oxide in the interfacial transition zone. Journal of Materials in Civil Engineering, 2025, 37(11): 04015408.
 
 <font face="黑体">Year of 2024</font>
 1. Tianyu Xiao, Xiangzhou Liang, Sen Du*. Development of high-volume fly ash concrete with improved interfacial transition zone. Journal of Building Engineering, 2024, 87: 109050.
