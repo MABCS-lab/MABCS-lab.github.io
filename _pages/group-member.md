@@ -26,6 +26,16 @@ Olorunsola Taiwo Samuel
 Esmat Azimi  
 硕士, 燕山大学, 2024-2027  
 
+<img src="https://github.com/user-attachments/assets/eaf6078a-c261-434a-ba28-072d4cfcde5a" width="20%" height="20%">  
+叶潍嘉  
+硕士, 燕山大学, 2025-2028  
+本科, 华北理工大学, 2020-2024  
+
+<img src="https://github.com/user-attachments/assets/f280f6c2-601d-401b-b1e5-5d7597b7b551" width="20%" height="20%">  
+Khpelwak Rezwanullah  
+硕士, 燕山大学, 2025-2028  
+
+
 **毕业生**  
 <img src="https://github.com/user-attachments/assets/30f2bcd0-47d9-46d0-b3c8-7ccea10d99a7" width="20%" height="20%">  
 肖天宇  
