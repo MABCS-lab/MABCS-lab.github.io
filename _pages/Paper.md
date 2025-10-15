@@ -12,6 +12,7 @@ author_profile: true
 2. Tianyu Xiao, Xiangzhou Liang, Sen Du*. Effect of targerted application of slag in the interfacial transition zone on the freeze-thaw resistance of high-volume fly ash concrete. Journal of Materials in Civil Engineering, 2025, 37(9): 04025283.
 3. Tianyu Xiao, Sen Du*. Review of high-volume fly ash binder in engineered cementitious composites. ACI Materials Journal, 2025, 122(4): 45-56.
 4. Yu Chen, Sen Du*. Optimization of water sorptivity of concrete through targeted employmnet of graphene oxide in the interfacial transition zone. Journal of Materials in Civil Engineering, 2025, 37(11): 04015408.
+5. Yu Chen, Kefan Zhou, Sen Du*. Introducing carbon nanotubes into concrete: a porosity-based characterization of dispersion. Construction and Building Materials, 2025, 498: 143947.
 
 <font face="黑体">Year of 2024</font>
 1. Tianyu Xiao, Xiangzhou Liang, Sen Du*. Development of high-volume fly ash concrete with improved interfacial transition zone. Journal of Building Engineering, 2024, 87: 109050.
@@ -45,7 +46,7 @@ author_profile: true
 1. Jialuo He, Sen Du, Zhengxian Yang, Xianming Shi. Laboratory investigation of graphene oxide suspension as a surface sealer for cementitious mortars. Construction and Building Materials, 2018, 162: 65-79.
 
 <font face="黑体">Year of 2017</font>
-1. Zhipeng Li, Jing Gong, Sen Du, Jianlin Wu, Jianfen Li, Daniel Hoffman, Xianming Shi. Nano-montmorillonite modified foamed paste with a high volume fly ash binder. 2017, 7(16): 9803-9812.
+1. Zhipeng Li, Jing Gong, Sen Du, Jianlin Wu, Jianfen Li, Daniel Hoffman, Xianming Shi. Nano-montmorillonite modified foamed paste with a high volume fly ash binder. RSC Advances, 2017, 7(16): 9803-9812.
 2. Sen Du, Hui Zhao, Zhengxian Yang, Xianming Shi*. Laboratory Investigation into the Modification of Transport Properties of High-Volume Fly Ash Mortar by Chemical Admixtures. Journal of Materials in Civil Engineering, 2017, 29(10): 04017184.
 3. Sen Du, Xianming Shi*, Yong Ge. Electron Probe Microanalysis Investigation into High-Volume Fly Ash Mortars. Journal of Materials in Civil Engineering, 2017, 29(7): 04017043.
 4. Sen Du, John Petrie, Xianming Shi*. Use of Snow Fences to Reduce the Impacts of Snowdrifts on Highways: Renewed Perspective. Transportation Research Record, 2017, 2613: 45-51.
