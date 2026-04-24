@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+<font face="黑体">Year of 2026</font>
+1. Yu Chen, Zepeng Jia, Sen Du*. Segmentation of fly ash and cement clinker from the blended system: An approach to quantify their reaction degrees. Construction and Building Materials, 2026, 523: 146278.
 
 <font face="黑体">Year of 2025</font>
 1. Yu Chen, Sen Du*. Improving the interfacial transition zone of concrete: A targeted approach utilizing graphene oxide. Construction and Building Materials, 2025, 466: 140323.
