@@ -35,6 +35,9 @@ Esmat Azimi
 Khpelwak Rezwanullah  
 硕士, 燕山大学, 2025-2028  
 
+<img src="https://github.com/user-attachments/assets/d559f279-0918-49bc-b6fe-0cd0826a6ea1" width="20%" height="20%">
+张佳莹
+本科, 燕山大学, 2025-2029
 
 **毕业生**  
 <img src="https://github.com/user-attachments/assets/30f2bcd0-47d9-46d0-b3c8-7ccea10d99a7" width="20%" height="20%">  
