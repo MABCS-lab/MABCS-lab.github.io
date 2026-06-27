@@ -8,20 +8,6 @@ author_profile: true
 {% include base_path %}
 
 **在读**  
-<img src="https://github.com/user-attachments/assets/dfdd1d67-b770-4c36-a9fb-8a4ada6d66cc" width="20%" height="20%">  
-陈宇  
-硕士, 燕山大学, 2023-2026  
-本科, 河南理工大学, 2019-2023  
-
-<img src="https://github.com/user-attachments/assets/5f2cd2d8-7f45-4f74-9119-48f8a79c8a0e" width="20%" height="20%">  
-贾泽鹏  
-硕士, 燕山大学, 2023-2026  
-本科, 石家庄铁道大学, 2018-2022  
-
-<img src="https://github.com/user-attachments/assets/03620767-fdc6-4a95-9f6e-ae7f1e74291a" width="20%" height="20%">  
-Olorunsola Taiwo Samuel  
-硕士, 燕山大学, 2023-2026  
-
 <img src="https://github.com/user-attachments/assets/cf2f40a5-a630-468e-8c4d-10de6153b3ac" width="20%" height="20%">  
 Esmat Azimi  
 硕士, 燕山大学, 2024-2027  
@@ -35,18 +21,10 @@ Esmat Azimi
 Khpelwak Rezwanullah  
 硕士, 燕山大学, 2025-2028  
 
-<img src="https://github.com/user-attachments/assets/d559f279-0918-49bc-b6fe-0cd0826a6ea1" width="20%" height="20%">  
-张佳莹  
-本科, 燕山大学, 2025-2029  
-
-<img src="https://github.com/user-attachments/assets/4641dbc2-206d-4ba3-8dfb-cf69d4c9d0f2" width="20%" height="20%">  
-吴佳沐  
-本科, 燕山大学, 2025-2029  
-
 **毕业生**  
 <img src="https://github.com/user-attachments/assets/30f2bcd0-47d9-46d0-b3c8-7ccea10d99a7" width="20%" height="20%">  
 肖天宇  
-期刊编辑, MDPI出版公司, 武汉  
+博士, 华中科技大学  
 硕士, 燕山大学, 2021-2024  
 本科, 河北科技大学, 2015-2019  
 
@@ -59,4 +37,16 @@ Sales Manager, D&G Machinery Company, 廊坊
 周克凡  
 管理岗，天津市西青区市容园林服务中心，天津  
 硕士, 燕山大学, 2022-2025  
+本科, 石家庄铁道大学, 2018-2022  
+
+<img src="https://github.com/user-attachments/assets/dfdd1d67-b770-4c36-a9fb-8a4ada6d66cc" width="20%" height="20%">  
+陈宇  
+博士, 东南大学  
+硕士, 燕山大学, 2023-2026  
+本科, 河南理工大学, 2019-2023  
+
+<img src="https://github.com/user-attachments/assets/5f2cd2d8-7f45-4f74-9119-48f8a79c8a0e" width="20%" height="20%">  
+贾泽鹏  
+基建管理, 国家电网, 石家庄  
+硕士, 燕山大学, 2023-2026  
 本科, 石家庄铁道大学, 2018-2022  
