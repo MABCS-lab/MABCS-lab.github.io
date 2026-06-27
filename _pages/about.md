@@ -1,4 +1,4 @@
-<img width="4096" height="3072" alt="WechatIMG421" src="https://github.com/user-attachments/assets/c9d1c81b-a25f-4fb5-934b-5480420f4cab" />
+
 ---
 permalink: /
 title: "Welcome to Microanalysis to Blended Cement Systems Lab"
